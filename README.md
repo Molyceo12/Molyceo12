@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there, I'm Maurice Irimaso
 
-<!--
-**Molyceo12/Molyceo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** and **Mobile Developer** dedicated to building robust, high-performance applications that solve real-world problems.  
+I love turning ideas into scalable digital experiences — from backend logic to stunning mobile interfaces.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Software & Mobile Developer**
+- 🛠️ **Backend:** Django · Laravel · Node.js
+- 🎨 **Frontend:** React.js · Next.js
+- 📱 **Mobile:** Flutter · React Native
+- 🗄️ **Database:** PostgreSQL · MySQL · Firebase · MongoDB · Supabase
+- 📧 **Email:** irimasomaurice@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+
+---
+
+## 🌐 Socials
+
+[![X](https://img.shields.io/badge/X-@IrimasoMau91257-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/IrimasoMau91257)
+[![Instagram](https://img.shields.io/badge/Instagram-molyceo__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/molyceo__/)
